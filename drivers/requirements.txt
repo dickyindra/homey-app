@@ -1,0 +1,2 @@
+imagecolor==1.2.1
+pywizlight==0.5.14
